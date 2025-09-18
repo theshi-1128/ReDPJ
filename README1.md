@@ -68,7 +68,7 @@ Before you start, you should replace the necessary information(`api_key`, `url`,
    git clone https://github.com/theshi-1128/ABJ-Attack.git
    ```
 
-2. Build enviroment:
+2. Build environment:
 
    ```sh
    cd ABJ-Attack
