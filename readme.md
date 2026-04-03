@@ -24,7 +24,7 @@ This repository shares the code of our latest work on LLMs jailbreaking. In this
 - We conduct extensive experiments on diverse LLMs, demonstrating ReDPJ’s impressive performance in terms of attack effectiveness, efficiency, and transferability. Additionally, we validate the effectiveness of the key components in ReDPJ and analyze the reasons behind the success of attack.
 
 <p align="center">
-  <img src="ABJ.png" width="900"/>
+  <img src="overview.pdf" width="900"/>
 </p>
 
 
